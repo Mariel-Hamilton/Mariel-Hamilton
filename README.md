@@ -7,7 +7,7 @@ I'm eager to apply my analytical skills to real-world problems.
 
 - 🌱 I’m currently learning advanced machine learning techniques and deep learning.
 - 💬 Ask me about data analysis, machine learning, and Python programming.
-- 📫 How to reach me: marielhamilton@outlook.com).
+- 📫 How to reach me: marielhamilton@outlook.com.
 
 ## Education
 

@@ -11,7 +11,7 @@ I'm eager to apply my analytical skills to real-world problems.
 
 ## Education
 
-- The Open University - Data Sience, 2023 to 2026
+- The Open University - Data Sience, 2023 to 2027
 
 ## Skills
 

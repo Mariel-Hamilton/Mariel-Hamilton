@@ -1,35 +1,19 @@
-# Hi there, I'm Mariel 👋
+# Hi, I'm Mariel 👋
 
-## About Me
+I'm a Data Analyst working in a complaints function in the energy sector, and a final-year Data Science student at The Open University (graduating June 2027).
 
-I'm a data science student passionate about turning data into actionable insights. Currently pursuing my degree in Data Science at The Open University, 
-I'm eager to apply my analytical skills to real-world problems.
+## What I do
+- Query and analyse data with SQL and BigQuery
+- Build dashboards and performance reports in Tableau
+- Turn business questions into analysis that stakeholders can act on
 
-- 🌱 I’m currently learning advanced machine learning techniques and deep learning.
-- 💬 Ask me about data analysis, machine learning, and Python programming.
-- 📫 How to reach me: marielhamilton@outlook.com.
+## What I'm working on
+- Rebuilding my Python skills (pandas, NumPy) through regular practice
+- Building portfolio projects on customer service analytics, predictive modelling and statistical testing, using public datasets
+- Applying what I learn in my degree to practical projects
 
-## Education
+## Tools
+SQL · BigQuery · Tableau · Python (learning) · Git/GitHub (learning)
 
-- The Open University - Data Sience, 2023 to 2027
-
-## Skills
-
-- **Programming Languages**: Python, R, SQL
-- **Data Analysis**: Pandas,
-- **Tools**: Jupyter Notebook, Git, Excel
-
-
-## Currently Learning
-
-- Deep Learning with TensorFlow and Keras
-- Advanced SQL for Data Science
-- Data Engineering Fundamentals
-
-## Interests
-
-- Predictive Modeling and Forecasting
-- Natural Language Processing
-- Data Visualization and Storytelling
-- Big Data Technologies
-
+## Find my work
+My projects will appear in my pinned repositories as I complete them.
